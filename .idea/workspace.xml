@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ace30cd6-3e62-4016-9792-43d9b87b1074" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/org/mib/SongTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Playlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/org/mib/Playlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/org/mib/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PlaylistTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/org/mib/PlaylistTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="16" column="103" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradlew">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/org/mib/PlaylistTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/org/mib/Song.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradlew.bat">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/org/mib/SongTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/org/mib/Playlist.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="54" column="145" selection-start-line="54" selection-start-column="145" selection-end-line="54" selection-end-column="145" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/SongTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Song.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Playlist.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PlaylistTest.java" />
+        <option value="$PROJECT_DIR$/src/main/org/mib/Song.java" />
+        <option value="$PROJECT_DIR$/src/test/org/mib/SongTest.java" />
+        <option value="$PROJECT_DIR$/src/test/org/mib/PlaylistTest.java" />
+        <option value="$PROJECT_DIR$/src/main/org/mib/Playlist.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="183" />
+    <option name="y" value="35" />
+    <option name="width" value="1488" />
+    <option name="height" value="934" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TDD-Java-Music-Playlist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TDD-Java-Music-Playlist" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDD-Java-Music-Playlist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TDD-Java-Music-Playlist" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDD-Java-Music-Playlist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TDD-Java-Music-Playlist" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDD-Java-Music-Playlist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TDD-Java-Music-Playlist" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="mib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDD-Java-Music-Playlist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TDD-Java-Music-Playlist" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565642127820" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/org/mib" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PlaylistTest.checkTotalDurationTest">
+    <configuration name="PlaylistTest.checkEmptyList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD-Java-Music-Playlist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.mib" />
+      <option name="MAIN_CLASS_NAME" value="org.mib.PlaylistTest" />
+      <option name="METHOD_NAME" value="checkEmptyList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaylistTest.checkListOnSongAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD-Java-Music-Playlist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.mib" />
+      <option name="MAIN_CLASS_NAME" value="org.mib.PlaylistTest" />
+      <option name="METHOD_NAME" value="checkListOnSongAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaylistTest.checkListOnSongRemove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD-Java-Music-Playlist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.mib" />
+      <option name="MAIN_CLASS_NAME" value="org.mib.PlaylistTest" />
+      <option name="METHOD_NAME" value="checkListOnSongRemove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaylistTest.checkTotalDurationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD-Java-Music-Playlist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.mib" />
+      <option name="MAIN_CLASS_NAME" value="org.mib.PlaylistTest" />
+      <option name="METHOD_NAME" value="checkTotalDurationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaylistTest.shufflePlayList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD-Java-Music-Playlist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.mib" />
+      <option name="MAIN_CLASS_NAME" value="org.mib.PlaylistTest" />
+      <option name="METHOD_NAME" value="shufflePlayList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PlaylistTest.checkTotalDurationTest" />
+        <item itemvalue="JUnit.PlaylistTest.shufflePlayList" />
+        <item itemvalue="JUnit.PlaylistTest.checkListOnSongRemove" />
+        <item itemvalue="JUnit.PlaylistTest.checkListOnSongAdd" />
+        <item itemvalue="JUnit.PlaylistTest.checkEmptyList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ace30cd6-3e62-4016-9792-43d9b87b1074" name="Default Changelist" comment="" />
+      <created>1565633053268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565633053268</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PlaylistTest_checkListOnSongAdd - 2019.08.12 at 14h 28m 08s.xml">
+      <configuration name="PlaylistTest.checkListOnSongAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaylistTest_checkListOnSongAdd - 2019.08.12 at 14h 31m 41s.xml">
+      <configuration name="PlaylistTest.checkListOnSongAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaylistTest_checkListOnSongRemove - 2019.08.12 at 14h 43m 01s.xml">
+      <configuration name="PlaylistTest.checkListOnSongRemove" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaylistTest_shufflePlayList - 2019.08.12 at 15h 05m 27s.xml">
+      <configuration name="PlaylistTest.shufflePlayList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaylistTest_shufflePlayList - 2019.08.12 at 15h 05m 53s.xml">
+      <configuration name="PlaylistTest.shufflePlayList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaylistTest_checkTotalDurationTest - 2019.08.12 at 15h 09m 33s.xml">
+      <configuration name="PlaylistTest.checkTotalDurationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaylistTest_checkTotalDurationTest - 2019.08.12 at 15h 18m 09s.xml">
+      <configuration name="PlaylistTest.checkTotalDurationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaylistTest_checkTotalDurationTest - 2019.08.12 at 15h 18m 39s.xml">
+      <configuration name="PlaylistTest.checkTotalDurationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaylistTest_checkTotalDurationTest - 2019.08.12 at 15h 19m 14s.xml">
+      <configuration name="PlaylistTest.checkTotalDurationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaylistTest_checkTotalDurationTest - 2019.08.12 at 15h 20m 56s.xml">
+      <configuration name="PlaylistTest.checkTotalDurationTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="183" y="35" width="1488" height="934" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24965422" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32897863" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32897863" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32897863" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39904988" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SongTest">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="16" column="103" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/mib/Song.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/org/mib/SongTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/org/mib/PlaylistTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/mib/Playlist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="54" column="145" selection-start-line="54" selection-start-column="145" selection-end-line="54" selection-end-column="145" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

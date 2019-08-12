@@ -1,4 +1,4 @@
-package main.java;
+package org.mib;
 
 import java.time.Duration;
 
@@ -35,5 +35,10 @@ public class Song{
 	public void setDuration(Duration length) {
 		this.length = length;
 	}
-	
+
+	public String getDurationPretty() {
+		long seconds =length.getSeconds();
+
+		return String.format("%d:%02d:%02d",seconds/3600,(seconds-(seconds/3600))/60, seconds%60);
+	}
 }
